@@ -10,7 +10,7 @@ public class Question1 {
         Arrays.sort(array_1);
         System.out.println("Sorted integer "+ Arrays.toString(array_1));
         Arrays.sort(array_2);
-        System.out.println("Sorted String"+Arrays.toString(array_2));
+        System.out.println("Sorted String "+Arrays.toString(array_2));
 
     }
 }
